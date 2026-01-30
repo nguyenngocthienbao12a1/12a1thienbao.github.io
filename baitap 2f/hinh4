@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<head>
+<meta charset = "utf-8">
+<title>Các thẻ Định dạng văn bản</title>
+</head>
 
+<body>
+
+<p>văn bản được <strong>in đậm</strong></p>
+<p>văn bản được <em>in nghiêng</em></p>
+<p>văn bản được <u>gạch chân</u></p>
+<p>x<sup>2</sup> + 2x + 1</p>
+<p>H<sub>2</sub>O</p>
+<pre>
+văn bản giữ nguyên định dạng
+không cần dùng thẻ &It;br&gt;để xuông dòng.
+</pre>
+
+</body>
+
+</html>
